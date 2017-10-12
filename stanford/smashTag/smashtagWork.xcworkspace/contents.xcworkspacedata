@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../CS193P-2017-UITableView-Lecture-9/Twitter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:smashTag/smashTag.xcodeproj">
+   </FileRef>
+</Workspace>

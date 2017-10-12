@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9F5D1B9CFABAAF0B7655D72850F9B922186C2065",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F5D1B9CFABAAF0B7655D72850F9B922186C2065" : 9223372036854775807,
+    "A63CBF5386A579359072581A59F068337ADC9DF2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "089CDEE2-FAC7-4551-B91F-6295C4241607",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F5D1B9CFABAAF0B7655D72850F9B922186C2065" : "IOS-fun\/",
+    "A63CBF5386A579359072581A59F068337ADC9DF2" : "CS193P-2017-UITableView-Lecture-9\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "smashtagWork",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "stanford\/smashTag\/smashtagWork.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tonmanayo\/IOS-fun.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F5D1B9CFABAAF0B7655D72850F9B922186C2065"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MichelDeiman\/CS193P-2017-UITableView-Lecture-9.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A63CBF5386A579359072581A59F068337ADC9DF2"
+    }
+  ]
+}
